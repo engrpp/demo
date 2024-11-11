@@ -1,0 +1,20 @@
+1.
+2.
+3.
+
+
+7. How to host your code to github repository
+        - 
+
+whar 1s alt ranch
+Check Branch
+12.
+Let's Create A Login-Form Branch
+"git branch"
+git branch login-form'
+Check your at branch
+"ait branch
+now to switch oranch
+git checkout login-form'
+15.
+How to publish branch
